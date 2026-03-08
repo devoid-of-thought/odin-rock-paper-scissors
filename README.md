@@ -6,6 +6,7 @@ Project created for [Project Odin](https://www.theodinproject.com/lessons/founda
 ## Features 
 
 Simple website with three buttons.
+
 ![website](./images/base.png)
 
 When either player or computer wins the buttons become blocked.
